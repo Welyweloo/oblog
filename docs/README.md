@@ -11,7 +11,7 @@ Content
 --
 Le contenu est superficiel. Seules les fonctionnalités importent dans ce projet. 
 
-Réalisation
+Realisation
 --
 
 J'ai pu m'exercer en travaillant sur la dynamisation du site à partir d'une intégration en dur. 
